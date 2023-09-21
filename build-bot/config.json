@@ -1,0 +1,11 @@
+{ 
+    "token": "MTExNDM2ODA3OTMyNjA4NTIwMQ.GY8YGD.1MbsUJZ6PihIo2cPl7FdFs-4JCdm2gOLG40-Lc",
+    "prefix": "$",
+    "owners": ["1089302951102779432"],
+    "api_url": "https://sa-east-1.aws.data.mongodb-api.com/app/data-jowtd/endpoint/data/v1",
+    "tickets": {
+        "buy": "id",
+        "replace": "id",
+        "support": "id"
+    }
+}
